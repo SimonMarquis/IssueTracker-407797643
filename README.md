@@ -1,4 +1,4 @@
-# Reproducer for [IssueTracker#407797643](https://issuetracker.google.com/issues/407797643)
+# [IssueTracker#407797643](https://issuetracker.google.com/issues/407797643)
 
 ```bash
 gradlew :app:lintDebug
